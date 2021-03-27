@@ -1,1 +1,1 @@
-# dimakoptev.sensor.github.io
+# dimakoptev/sensor.github.io
